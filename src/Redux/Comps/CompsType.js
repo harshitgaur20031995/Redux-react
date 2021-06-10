@@ -1,0 +1,3 @@
+export const SIDE_BTN_ROTATE = "SIDE_BTN_ROTATE";
+export const SIDE_BTN_NORMAL = "SIDE_BTN_NORMAL";
+export const LIST_OPEN_TYPE = "LIST_OPEN_TYPE";
